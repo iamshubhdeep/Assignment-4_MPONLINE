@@ -24,6 +24,14 @@ The objective of this project is to build a K-Nearest Neighbors (KNN) classifica
 3. **Model Development**: Trained a `KNeighborsClassifier` with $k=5$ on the scaled training features.
 4. **Model Evaluation**: Evaluated the model using Accuracy, Precision, Recall, F1-Score, and a Confusion Matrix heatmap.
 
+## Libraries Used
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
+- `kaggle`
+
 ## Results
 - **Accuracy:** 95.61%
 - **Precision:** 97.44%
