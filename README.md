@@ -1,28 +1,18 @@
 # Breast Cancer Classification using K-Nearest Neighbors (KNN)
 
-**Author:** Akshat Garg  
+## Details
 
-**Registration Number:** 23BCE10641 
-
-**Application Number:** IN26011052
-
-**Batch Number:** 1A
-
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+- Name : Shubhdeep Singh
+- Application No. : IN26011804
+- College Reg. No. : 23BCE11460
+- Batch No. : 1(A)
+- Email Id : shubhdeep.23bce11460@vitbhopal.ac.in
 
 ## Objective
 The objective of this project is to build a K-Nearest Neighbors (KNN) classification model ($k=5$) to accurately classify breast tumors as Malignant (M) or Benign (B) based on diagnostic measurements.
 
 ## Dataset Link
 - [Kaggle: Breast Cancer Wisconsin Diagnostic Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
-
-## Libraries Used
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `seaborn`
-- `scikit-learn`
-- `kaggle`
 
 ## Methodology
 1. **Data Understanding**: Identified numerical features and target variable (`diagnosis`), inspecting data types and distributions.
